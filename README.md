@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on an NFT marketplace/An interesting API idea/Development of mobile applications.
 - 
 - 📫 You can reach me below..
+- 🌐 Portfolio Website => https://thereedportfolio.com/
 - 🐦 Twitter => https://twitter.com/jurgden
 - 🔗 Linkedin => https://www.linkedin.com/in/jordan-reed-9b6501b0/
 - 🐈 Github => https://github.com/jurgden
