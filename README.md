@@ -10,9 +10,8 @@
 - 🐦 Twitter => https://twitter.com/jurgden
 - 🔗 Linkedin => https://www.linkedin.com/in/jordan-reed-9b6501b0/
 - 📭 E-Mails => Jordanschrieber@yahoo.com && Jurgdenthegreat@Gmail.com
-- 📞 Whatsapp => 1(206)412-2183
 - 👾 Repl.it => https://replit.com/@jurgden
-- 
+- 🌐 MY Portfolio Website => https://eldritchnet.com
 - 🔭 I look forward to working with you!
 
 <!---
