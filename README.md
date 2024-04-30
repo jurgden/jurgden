@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently learning about routing pages in React , as well as employing algorithms with Javascript.
 - 
-- 💞️ I’m looking to collaborate on an NFT marketplace/An interesting API idea/Development of mobile applications.
+- 💞️ I’m looking to collaborate on an interesting API idea, Development of Mobile applications, Web Development, Network Administration, CTFs and Red Team Pentesting and general software development. 
 - 
 - 📫 You can reach me below..
 - 🐦 Twitter => https://twitter.com/jurgden
